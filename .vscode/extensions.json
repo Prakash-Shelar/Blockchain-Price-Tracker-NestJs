@@ -1,0 +1,15 @@
+{
+  "recommendations": [
+    "usernamehw.errorlens",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "ms-azuretools.vscode-docker",
+    "alefragnani.bookmarks",
+    "eamodio.gitlens",
+    "ms-vsliveshare.vsliveshare",
+    "bradlc.vscode-tailwindcss",
+    "heybourn.headwind",
+    "zixuanchen.vitest-explorer",
+    "ms-playwright.playwright"
+  ]
+}
