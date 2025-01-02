@@ -18,7 +18,7 @@ To run this project, you will need to copy .env.example into .env and add the va
 Clone the project
 
 ```bash
-  git clone https://github.com/Prakash-Shelar/Blockchain-Price-Tracker.git
+  git clone https://github.com/Prakash-Shelar/Blockchain-Price-Tracker-NestJs.git
 ```
 
 Go to the project directory
